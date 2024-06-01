@@ -1,1 +1,1 @@
-# blog_management
+# Blog Management System (Nodejs + Expressjs + MongoDB)
